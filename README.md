@@ -1,10 +1,10 @@
 # Analytics Lab 1 - Ava Lawless
 
-Writing a recipe to open a new working environment
+## Recipe for Opening a New Working Environment
 
 **1. Fork a repository in GitHub and open a GitHub CodeSpace**
 
-**2. Open this CodeSpace in VSCode**
+**2. Open this CodeSpace in VSCode by clicking "New Window" > "Connect to..." > Click your CodeSpace's name**
 
 **3. Create an interactive .py file by using # %% to make your code able to run**
 
